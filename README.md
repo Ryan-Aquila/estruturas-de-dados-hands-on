@@ -8,7 +8,9 @@ Fila de Prioridade — atendimento conforme o nível de urgência do cliente
 
 Integrantes:
 Rhuann Pabllo Ferreira Magalhães	45158872
+
 Guilherme de Souza Dutra	45604061
+
 Ryan Áquila Damasceno Vieira	38363470
 
 Objetivo:

@@ -10,9 +10,9 @@ Fila de Prioridade
 
 -INTEGRANTES
 
-Rhuann pabllo ferreira magalhães- 45158872
+Rhuann Pabllo Ferreira Magalhães- 45158872
 
-guilherme de souza dutra- 45604061
+Guilherme de Souza Dutra- 45604061
 
 Ryan Áquila Damasceno Vieira- 38363470
 

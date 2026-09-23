@@ -7,6 +7,7 @@ Fila Circular — reaproveitamento de posições em uma estrutura de tamanho fix
 Fila de Prioridade — atendimento conforme o nível de urgência do cliente
 
 Integrantes:
+
 Rhuann Pabllo Ferreira Magalhães	45158872
 
 Guilherme de Souza Dutra	45604061

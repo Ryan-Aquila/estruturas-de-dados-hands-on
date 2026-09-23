@@ -1,40 +1,30 @@
-Fila de Atendimento - Hands On
+Fila de Atendimento — Hands On
 
-Projeto desenvolvido em Python para simular o funcionamento de três tipos de filas em uma central de atendimento:
+Projeto desenvolvido em Python para simular o funcionamento de três tipos de fila em uma central de atendimento:
 
-Fila clássica (FIFO)
+Fila Clássica (FIFO) — atendimento na ordem de chegada
+Fila Circular — reaproveitamento de posições em uma estrutura de tamanho fixo
+Fila de Prioridade — atendimento conforme o nível de urgência do cliente
+Integrantes
+Nome	Matrícula
+Rhuann Pabllo Ferreira Magalhães	45158872
+Guilherme de Souza Dutra	45604061
+Ryan Áquila Damasceno Vieira	38363470
+Objetivo
 
-Fila Circular
-
-Fila de Prioridade
-
--INTEGRANTES
-
-Rhuann Pabllo Ferreira Magalhães- 45158872
-
-Guilherme de Souza Dutra- 45604061
-
-Ryan Áquila Damasceno Vieira- 38363470
-
--OBJETIVO
-
-O objetivo do projeto é mostrar na prática como diferentes tipos de filas organizam e atendem clientes.
+Mostrar na prática como diferentes tipos de fila organizam e atendem clientes, comparando a lógica de funcionamento e o comportamento de cada estrutura.
 
 Cada cliente possui:
 
-  Nome
-  
-  Senha
-  
-  Prioridade
+Nome
+Senha
+Prioridade
 
--As prioridades são:
+As prioridades disponíveis são:
 
-  - Emergência
-    
-  - Prioritário
-    
-  - Normal
+🔴 Emergência
+🟡 Prioritário
+🟢 Normal
 
 Arquivos do projeto
 fila-atendimento-hands-on/

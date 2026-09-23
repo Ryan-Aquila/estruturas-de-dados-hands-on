@@ -5,12 +5,13 @@ Projeto desenvolvido em Python para simular o funcionamento de três tipos de fi
 Fila Clássica (FIFO) — atendimento na ordem de chegada
 Fila Circular — reaproveitamento de posições em uma estrutura de tamanho fixo
 Fila de Prioridade — atendimento conforme o nível de urgência do cliente
-Integrantes
-Nome	Matrícula
+
+Integrantes:
 Rhuann Pabllo Ferreira Magalhães	45158872
 Guilherme de Souza Dutra	45604061
 Ryan Áquila Damasceno Vieira	38363470
-Objetivo
+
+Objetivo:
 
 Mostrar na prática como diferentes tipos de fila organizam e atendem clientes, comparando a lógica de funcionamento e o comportamento de cada estrutura.
 
